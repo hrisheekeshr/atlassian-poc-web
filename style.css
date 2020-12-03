@@ -1,0 +1,60 @@
+
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: #00B8D9;
+}
+
+#slide7 {
+    font-size: 12px;
+
+}
+
+#button {
+    background-color: #0052CC;
+    color: aliceblue;
+    border-radius: 25px;
+    margin-left: 14px;
+    margin-right: 14px;
+    font-size: 13px;
+}
+
+h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+#slide9 {
+    display: none;
+}
+
+div.custom-control.custom-checkbox {
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+    background-color:#00B8D9;
+}
+
+#filters {
+    font-size: small;
+}
+
+#searchColumn{
+    font-size: small;
+    margin-top: 5px;
+}
+
+#footer {
+    position: absolute;
+}
+
